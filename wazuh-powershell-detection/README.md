@@ -3,7 +3,7 @@
 **Analista:** Iago dos Santos
 **Data do incidente:** 26/09/2026
 **Ambiente:** Home Lab (Wazuh SIEM + Sysmon)
-**Classificação:** Simulação de ataque (Red Team interno / autoteste)
+**Classificação:** Simulação de ataque (Red Team interno / Blue Team interno)
 **Severidade do alerta:** Baixa (Nível 4 — Wazuh)
 
 ---
